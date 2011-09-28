@@ -33,7 +33,8 @@ __Pytroj is extended to infect running processes in memory.
 All the information above still holds true.
 
 To infect a running process use:
-     python -c 'import exploit, <process-name>'
+
+     python -c 'import exploit, process-name'
      
 The running process will now be infected.
 
