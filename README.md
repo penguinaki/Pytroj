@@ -24,3 +24,19 @@ For help, questions, or comments, feel free to contact us:
 [Leon Fedotov](https://github.com/LeonFedotov "im0b")
 
 [Itzik Kotler](https://github.com/ikotler "itzikkotler")
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Information below refers to this fork only. 
+
+__Pytroj is extended to infect running processes in memory.
+All the information above still holds true.
+
+To infect a running process use:
+     python -c 'import exploit, <process-name>'
+     
+The running process will now be infected.
+
+For more info, contact me at: https://github.com/penguinaki
+
+
